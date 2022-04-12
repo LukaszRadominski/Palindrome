@@ -1,3 +1,2 @@
-# Palindrome
-
-# Funkcja porównuje każdy podany przez użytkowniaka string z tym samym stringiem o odwrotnej kolejości znaków  
+# palindrome.py
+# Funkcja porównuje każdy podany przez użytkownika string z tym samym stringiem zapisanym w odwrotnej kolejości znaków  
